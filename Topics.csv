@@ -1,21 +1,6 @@
-Word 1,Prob 1,Word 2,Prob 2,Word 3,Prob 3,Word 4,Prob 4,Word 5,Prob 5,Word 6,Prob 6
-editor,0.02,crash,0.013,make,0.008,project,0.008,using,0.007,work,0.007
-objects,0.01,system,0.008,editor,0.008,crashes,0.007,animation,0.007,object,0.006
-editor,0.01,remove,0.007,file,0.006,entity,0.005,code,0.005,camera,0.005
-editor,0.01,camera,0.006,files,0.005,issue,0.005,problem,0.005,update,0.005
-build,0.009,bug,0.008,editor,0.007,linux,0.007,engine,0.006,create,0.006
-editor,0.016,debug,0.008,engine,0.008,missing,0.008,entity,0.006,mode,0.005
-build,0.008,engine,0.008,work,0.006,animation,0.006,texture,0.006,move,0.006
-editor,0.018,objects,0.006,file,0.005,scene,0.005,demo,0.005,engine,0.005
-system,0.014,editor,0.013,mode,0.007,bug,0.006,work,0.006,input,0.006
-editor,0.024,using,0.01,object,0.007,windows,0.007,collision,0.007,audio,0.006
-editor,0.011,change,0.01,opengl,0.009,window,0.007,render,0.007,crash,0.006
-editor,0.013,bug,0.009,level,0.005,map,0.005,vector,0.005,resource,0.005
-editor,0.025,code,0.009,work,0.009,build,0.008,request,0.007,player,0.007
-rendering,0.011,bug,0.008,build,0.008,map,0.008,windows,0.007,editor,0.006
-editor,0.011,crash,0.01,implement,0.01,window,0.007,node,0.006,animation,0.006
-implement,0.01,screen,0.008,build,0.008,work,0.007,change,0.005,object,0.005
-engine,0.015,work,0.007,render,0.007,a½,0.006,map,0.005,image,0.005
-crash,0.012,editor,0.011,using,0.009,build,0.007,bug,0.006,windows,0.006
-build,0.007,texture,0.007,get,0.005,camera,0.005,engine,0.005,issue,0.005
-bug,0.017,system,0.008,editor,0.007,run,0.007,update,0.006,text,0.006
+Word 1,Prob 1,Word 2,Prob 2,Word 3,Prob 3,Word 4,Prob 4
+editor,0.02,crash,0.013,work,0.008,using,0.007
+editor,0.008,object,0.007,animation,0.007,objects,0.006
+editor,0.008,file,0.006,example,0.006,build,0.005
+editor,0.014,camera,0.006,system,0.006,implement,0.005
+build,0.012,bug,0.008,editor,0.006,linux,0.006
